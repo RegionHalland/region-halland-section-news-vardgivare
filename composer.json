@@ -1,0 +1,13 @@
+{
+    "name": "regionhalland/region-halland-section-news-vardgivare",
+    "description": "Sektionsnyheter på en landningssida på vardgivarwebben",
+    "type": "wordpress-plugin",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Roland Hydén",
+            "email": "Roland.Hyden@Regionhalland.se"
+        }
+    ],
+    "require": {}
+}
